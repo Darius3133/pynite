@@ -6,7 +6,7 @@ Pynite is a modern, lightweight game library manager (game launcher inspired by 
 
 ---
 
-## ✨ Key Features
+## ✨ Key features
 * **Library categories:** Create and manage your own categories to keep your library organized.
 * **Dynamic icons:** Automatically pulls icons from game executables for a high-end visual experience.
 * **Theme system:** Support for light and dark themes.
@@ -15,7 +15,7 @@ Pynite is a modern, lightweight game library manager (game launcher inspired by 
 
 ---
 
-## 🛠️ System Requirements
+## 🛠️ System requirements
 * **OS:** Windows 8.x, 10, or 11 (64-bit).
 * **Python:** Version 3.9 or higher.
 * **Required libraries:** `PySide6`.
