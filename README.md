@@ -22,7 +22,7 @@ Pynite is a modern, lightweight game library manager (game launcher inspired by 
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting started
 
 ### 1. Download Python
 1. Go to [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/).
@@ -42,11 +42,11 @@ Pynite is a modern, lightweight game library manager (game launcher inspired by 
 
 ---
 
-## 📅 Recent Changelog
+## 📅 Recent changelog
 
 ### v1.1 - Pre-Developer Preview 2.1 (2025-12-29)
-* **Library Categories:** Introducing custom categories where you can organize the games in your library.
-* **Game Icons:** Introducing game icons pulled directly from the executable icon of the game.
+* **Library categories:** Introducing custom categories where you can organize the games in your library.
+* **Game icons:** Introducing game icons pulled directly from the executable icon of the game.
 
 ### v1.1 - Pre-Developer Preview 2 (2025-12-29)
 * **Maintenance:** Even more bugfixes, focused on stability.
