@@ -18,27 +18,27 @@ Pynite is a modern, lightweight game library manager (game launcher inspired by 
 ## 🛠️ System Requirements
 * **OS:** Windows 8.x, 10, or 11 (64-bit).
 * **Python:** Version 3.9 or higher.
-* **Required Libraries:** `PySide6`.
+* **Required libraries:** `PySide6`.
 
 ---
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
-```bash
-git clone [https://github.com/dariusx3133/pynite.git](https://github.com/dariusx3133/pynite.git)
-cd pynite
-```
+### 1. Download Python
+1. Go to [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/).
+2. Download the Windows installer or the Python install manager (I recommend the Install manager because the legacy installer will be deprecated).
+3. Install the PySide6 library using pip:
+   ```bash
+   pip install PySide6
+   ```
+*(If you don't have the environment paths set up properly on Windows, go to `C:\Users\(YOURUSERNAME)\AppData\Local\Programs\Python\Python(version)\Scripts` and run pip from there as it's an executable).*
 
-### 2. Install the dependencies
-```bash
-pip install PySide6
-```
+### 2. Download Pynite
+1. Go to the releases.
+2. Download whatever version of Pynite you want.
 
-### 3. Run the launcher
-```bash
-python pynite.py
-```
+### 3. Running Pynite
+1. Run the Python script from the location you put Pynite in. That's it.
 
 ---
 
