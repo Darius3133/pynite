@@ -43,6 +43,9 @@ Pynite is a modern, lightweight game library manager (game launcher inspired by 
 
 ## 📅 Recent changelog
 
+### v1.1 (2025-12-30)
+* **Maintenance:** Bugfixes, till I get bored.
+
 ### v1.1 - Pre-Developer Preview 2.1 (2025-12-29)
 * **Game icons:** Introducing game icons pulled directly from the executable icon of the game.
 
