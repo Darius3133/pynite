@@ -62,7 +62,7 @@ Pynite is a modern, lightweight game library manager (game launcher inspired by 
 
 ## 🐛 Feedback & Support
 If you encounter any issues, please report them via our website to help us improve:  
-👉 [Submit a Bug Report](https://pynitelauncher.neocities.org/report)
+👉 [Submit a bug report](https://pynitelauncher.neocities.org/report)
 
 ---
 **Developer:** Developed with ❤️ by **DariusX3133** on Discord.
