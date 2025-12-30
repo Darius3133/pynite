@@ -31,7 +31,7 @@ Pynite is a modern, lightweight game library manager (game launcher inspired by 
    ```bash
    pip install PySide6
    ```
-*(If you don't have the environment paths set up properly on Windows, go to `C:\Users\(YOURUSERNAME)\AppData\Local\Programs\Python\Python(version)\Scripts` and run pip from there as it's an executable).*
+*(If you don't have the environment paths set up properly on Windows, go to `C:\Users\(YOURUSERNAME)\AppData\Local\Programs\Python\Python(version)\Scripts` and run pip script using cmd from there as it's an executable).*
 
 ### 2. Download Pynite
 1. Go to the releases.
