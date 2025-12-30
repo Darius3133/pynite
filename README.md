@@ -16,7 +16,7 @@ Pynite is a modern, lightweight game library manager (game launcher inspired by 
 ---
 
 ## 🛠️ System requirements
-* **OS:** Windows 8.x, 10, or 11 (64-bit).
+* **OS:** Windows 8.x, 10, or 11 (64-bit). If you are asking, Linux and macOS will **NEVER** be supported.
 * **Python:** Version 3.9 or higher.
 * **Required libraries:** `PySide6`.
 
