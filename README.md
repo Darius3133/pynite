@@ -1,9 +1,6 @@
 # 💎 Pynite
 Pynite is a modern, lightweight game library manager (game launcher inspired by Playnite) built with **Python** and **PySide6**. It aims to provide a premium, customizable interface for organizing and launching your game collection with a focus on simplicity and performance.
 
-> [!IMPORTANT]  
-> **Pre-Developer Preview:** Pynite is currently in early development. Expect bugs and frequent updates. Always back up your `pynite_library.db` before updating to a new build.
-
 ---
 
 ## ✨ Key features
